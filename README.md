@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ali Umair 👋</h1>
 
-<h3 align="center">AI/Backend Engineer · LangGraph · FastAPI · RAG Pipelines · Open to Remote Contracts (EU)</h3>
+<h3 align="center">AI/Backend Engineer · LangGraph · FastAPI · RAG Pipelines · </h3>
 
 <br/>
 
@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🤖 I build **agentic AI systems** — multi-agent pipelines, RAG architectures, and LLM-powered backends
-- 🛠️ Core stack: **FastAPI · LangGraph · LangChain · CrewAI · MongoDB · Python**
+- 🛠️ Core stack: **Machine Learning . Deep Learning . FastAPI · LangGraph · LangChain · CrewAI · MongoDB · Python**
 - 🌍 Actively looking for **remote contract/freelance roles** with EU-based startups
 - 🎓 Software Engineering student @ **University of Management & Technology, Lahore**
 - 📬 Reach me: [LinkedIn](https://www.linkedin.com/in/ali-umair-se148/)
